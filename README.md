@@ -1,6 +1,6 @@
 # Árvore AVL
 
-Implementação de uma árvore AVL, feita em linguagem **C**, na disciplina de Estruturas de Dados Avançadas, 
+Implementação de uma árvore AVL, feita em linguagem **C**, na disciplina de Estruturas de Dados Avançadas, semestre 2021.1, 
 pelo curso de Ciência da Computação da Universidade Federal do Ceará (Campus Russas).
 
 ### Definição
@@ -14,9 +14,10 @@ Por ser balanceada, a árvore AVL possui altura _O(log n)_.
 
 ### Compilando e executando
 
-Para compilar os arquivos, digite: ```gcc *.c -o main```.
+Para compilar os arquivos, digite: ```gcc *.c -o main```
 
 Depois, execute o arquivo criado pelo comando acima.
 
 Windows: ```main.exe```
+
 Linux: ```./main```
